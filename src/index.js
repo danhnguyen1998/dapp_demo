@@ -8,6 +8,7 @@ ReactDOM.render(<App />, document.getElementById('root'));
 console.log("danh")
 console.log("12")
 console.log("2")
+console.log("3")
 
 
 // If you want your app to work offline and load faster, you can change
