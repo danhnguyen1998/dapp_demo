@@ -5,10 +5,12 @@ import App from './components/App';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(<App />, document.getElementById('root'));
-console.log("danh")
+console.log("dan3")
 console.log("12")
 console.log("2")
 console.log("3")
+console.log("4")
+
 
 
 // If you want your app to work offline and load faster, you can change
